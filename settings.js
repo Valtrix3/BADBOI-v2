@@ -10,13 +10,13 @@ global.ytname = "🕷BADBOI-v2-BUG🕷"
 global.socialm = "GitHub: BADBOI-v1"
 global.location = "Africa, Nigeria, Ogun-state"
 
-global.ownernumber = '2348140825959,2348140825959,2348140825959'  //creator number
+global.ownernumber = '27645340967'  //creator number
 global.ownername = '🕷BADBOI-v2-BUG🕷' //owner name
 global.botname = '🕷BADBOI-v2-BUG🕷' //name of the bot
 
 //sticker details
-global.packname = 'Sticker By'
-global.author = 'BADBOI HACKER\n\nContact: +2348140825959'
+global.packname = 'valtrix'
+global.author = 'Valtrix\n\nContact: +27645340967'
 
 //console view/theme
 global.themeemoji = '🪀'
@@ -30,8 +30,8 @@ global.prefa = ['','!','.','#','&']
 
 //false=disable and true=enable
 global.autoRecording = false //auto recording
-global.autoTyping = true //auto typing
-global.autorecordtype = true //auto typing + recording
+global.autoTyping = false //auto typing
+global.autorecordtype = false //auto typing + recording
 global.autoread = false //auto read messages
 global.autobio = true //auto update bio
 global.anti92 = true //auto block +92 
